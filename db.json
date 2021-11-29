@@ -1,0 +1,46 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Obiad",
+      "day": "27 Listopad, 15:30",
+      "reminder": false
+    },
+    {
+      "id": 2,
+      "text": "Kolacja",
+      "day": "27 Listopad, 18:30",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Wizyta u dentysty",
+      "day": "29 Listopad, 15:00",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "Wyprowadzenie psa sąsiadki",
+      "day": "29 Listopad, 20:00",
+      "reminder": true
+    },
+    {
+      "id": 5,
+      "text": "Deadline projektu",
+      "day": "30 Listopad, 16:00",
+      "reminder": true
+    },
+    {
+      "id": 6,
+      "text": "Kino",
+      "day": "30 Listopad, 19:45",
+      "reminder": true
+    },
+    {
+      "id": 7,
+      "text": "Koniec zapisów na zajęcia",
+      "day": "4 Grudnia, 23:59",
+      "reminder": false
+    }
+  ]
+}
